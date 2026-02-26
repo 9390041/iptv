@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/all.xml,https://epg.erw.cc/all.xml.gz"
 #辽宁电视台/9个
-#EXTINF:-1 tvg-id="281" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="东北电视台",辽宁卫视
+#EXTINF:-1 tvg-id="281" tvg-name="辽宁卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="东北电视台",辽宁卫视
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 
 #EXTINF:-1 tvg-id="275" tvg-name="辽宁公共" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning5.png" group-title="东北电视台",辽宁公共
