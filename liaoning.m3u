@@ -18,5 +18,5 @@ http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226735/index.m3
 #EXTINF:-1 tvg-id="281" tvg-name="辽宁都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning1.png" group-title="东北电视台",辽宁都市
 http://[2409:8087:1414:22::112d]:80/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226760/index.m3u8
 
-#EXTINF:-1 tvg-id="300" tvg-name="中央1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="中央台",中央1
-http://113.65.253.157:9999/udp/239.77.0.129:5146
+#EXTINF:-1 tvg-id="300" tvg-name="中央2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="中央台",中央2
+http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
